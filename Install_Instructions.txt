@@ -1,0 +1,7 @@
+The given file is a normal setup file.
+You would be ready to go after installing it using the setup file.
+(Make sure to note the destination folder of the game.)
+
+Enjoy!!
+
+Made by - Kushal Bhalgat
